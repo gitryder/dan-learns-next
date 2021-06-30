@@ -1,0 +1,17 @@
+.container {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+
+.title {
+    display: block;
+    font-size: 2rem;
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.list {
+    display: block;
+    font-size: 1.2rem;
+}
